@@ -1,3 +1,9 @@
+A Password generator which generates password with option to include numbers and characters which can also be copied by one click
+<br/>
+Do check it out now : https://password-generator-adi.netlify.app
+
+https://github.com/user-attachments/assets/b052fca2-a57f-46ec-9068-83484675eb28
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
