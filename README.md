@@ -1,4 +1,4 @@
-A Password generator which generates password with option to include numbers and characters which can also be copied by one click
+A Password generator which generates password with option to include numbers and characters which can also be copied by one click.
 <br/>
 Do check it out now : https://password-generator-adi.netlify.app
 
